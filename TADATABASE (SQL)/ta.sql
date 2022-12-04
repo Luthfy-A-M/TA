@@ -296,11 +296,9 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`, `role`, `status`) VALUES
-(4, 'Luthfy Aqil Mahendra', 'luthfyaqilmahendra9@gmail.com', NULL, '$2y$10$.qOpvWlyJERoHpKJFBODFukzcTBpYjjZVscS9PZvIMGvAv3fIhdhO', NULL, '2019-12-13 10:33:44', '2019-12-13 10:33:44', 'Admin', 'aktif'),
 (13, 'an', 'asdasdasdasdadasasdd@gmail.com', NULL, '$2y$10$RbQ51PN7PL2j.we3WUK3M.TnTgR5Iyeh1FbtRn.DOCURGUj7kaUJq', NULL, '2021-11-14 03:28:23', '2021-11-14 03:28:23', 'Facilitator', 'nonaktif'),
 (14, 'asdasdasd', 'asdsdsdsa@gmail.com', NULL, '$2y$10$n6lGugn88B8K7AfWYl7yq.NIhxRqUonlD9YZb7/XkFpMIkZJn.7rO', NULL, '2021-11-14 03:32:07', '2021-11-14 03:32:07', 'Client', 'aktif'),
 (15, 'aasd', 'adasdsad@gmail.com', NULL, '$2y$10$KOdxyTiihdvYOnsRVN9HFuhXlUTcT5ka666/9W7AblFM6vxq7pNb6', NULL, '2021-11-14 03:32:47', '2021-11-14 03:32:47', 'Facilitator', 'nonaktif'),
-(16, 'Luthf', 'rokforan@gmail.com', NULL, '$2y$10$A4l5mqsI44pT4J8hBRY8keUmBEm5izYGmj9b1ycT72a/.MQOhQbSG', NULL, '2021-11-17 23:12:35', '2021-11-17 23:12:35', 'Facilitator', 'aktif'),
 (17, 'an', 'aaaaaaa@gmail.com', NULL, '$2y$10$97pLnl.ZEm1BOLI/HD8FJ.qSdN5H6dEHK5D3bWcRTFr9rQtZh1wBy', NULL, '2021-11-17 23:16:35', '2021-11-17 23:16:35', 'Client', 'aktif'),
 (18, 'facilatotorrr', 'faci@gmail.com', NULL, '$2y$10$CV4MmsnZGscxkb.RKorkW.I0AM/ekOxI5yzyU7zcRwRfgkD29O4Jm', NULL, '2021-11-18 02:01:34', '2021-11-18 02:01:34', 'Facilitator', 'aktif');
 
